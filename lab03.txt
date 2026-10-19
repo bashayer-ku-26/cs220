@@ -1,0 +1,65 @@
+Script started on 2026-10-11 23:29:33+03:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="61" LINES="19"]
+]666;vte.shell.postexec=0\]7;file://bashayer-VirtualBox/home/bashayer/cs220\]0;bashayer@bashayer-VirtualBox:~/cs220\]666;vte.shell.precmd!\[?2004h]0;bashayer@bashayer-VirtualBox: ~/cs220[01;32mbashayer@bashayer-VirtualBox[00m:[01;34m~/cs220[00m$ git clone https://class room50.org/KUCS220/220-programming-in-c-and-unix-lap[Kb03-bashay er-ku-26.git
+[?2004l]133;C\]666;vte.shell.preexec!\Cloning into '220-programming-in-c-and-unix-lab03-bashayer-ku-26'...
+fatal: repository 'https://classroom50.org/KUCS220/220-programming-in-c-and-unix-lab03-bashayer-ku-26.git/' not found
+]666;vte.shell.postexec=128\]7;file://bashayer-VirtualBox/home/bashayer/cs220\]0;bashayer@bashayer-VirtualBox:~/cs220\]666;vte.shell.precmd!\[?2004h]0;bashayer@bashayer-VirtualBox: ~/cs220[01;32mbashayer@bashayer-VirtualBox[00m:[01;34m~/cs220[00m$ ls -l
+[?2004l]133;C\]666;vte.shell.preexec!\total 100
+drwxrwxr-x 4 bashayer bashayer  4096 Sep 28 16:50 [0m[01;34m220[0m
+drwxrwxr-x 4 bashayer bashayer  4096 Oct 11 22:31 [01;34m220-programming-in-c-and-unix-lab01-bashayer-ku-26[0m[K
+drwxrwxr-x 4 bashayer bashayer  4096 Oct 11 23:08 [01;34m220-programming-in-c-and-unix-lab02-bashayer-ku-26[0m[K
+-rw-rw-r-- 1 bashayer bashayer   177 Oct 10 19:43 Makefile
+-rw-rw-r-- 1 bashayer bashayer     8 Sep 22 18:50 README.md
+drwxrwxr-x 5 bashayer bashayer  4096 Oct  7 11:24 [01;34mcs220[0m
+drwxrwxr-x 3 bashayer bashayer  4096 Sep 28 16:42 [01;34mfolder1[0m
+-rwxrwxr-x 1 bashayer bashayer 16136 Oct 10 19:24 [01;32mhello[0m
+-rw-rw-r-- 1 bashayer bashayer 10272 Sep 30 12:13 lab01.txt
+-rw-rw-r-- 1 bashayer bashayer     0 Oct 11 23:29 lab03.txt
+-rw-rw-r-- 1 bashayer bashayer 17678 Oct 11 23:03 lap02.txt
+-rwxrwxr-x 1 bashayer bashayer 16136 Sep 22 18:33 [01;32mmain[0m
+-rw-rw-r-- 1 bashayer bashayer   342 Sep 22 18:33 main.c
+-rw-rw-r-- 1 bashayer bashayer    10 Sep 19 07:14 test.txt
+]666;vte.shell.postexec=0\]7;file://bashayer-VirtualBox/home/bashayer/cs220\]0;bashayer@bashayer-VirtualBox:~/cs220\]666;vte.shell.precmd!\[?2004h]0;bashayer@bashayer-VirtualBox: ~/cs220[01;32mbashayer@bashayer-VirtualBox[00m:[01;34m~/cs220[00m$ cat debug1.c
+[?2004l]133;C\]666;vte.shell.preexec!\cat: debug1.c: No such file or directory
+]666;vte.shell.postexec=1\]7;file://bashayer-VirtualBox/home/bashayer/cs220\]0;bashayer@bashayer-VirtualBox:~/cs220\]666;vte.shell.precmd!\[?2004h]0;bashayer@bashayer-VirtualBox: ~/cs220[01;32mbashayer@bashayer-VirtualBox[00m:[01;34m~/cs220[00m$ git clone https://class room05.org/KUCS220/220-programming-in-c-and-unix-lab03-bashay er-ku-26.git
+[?2004l]133;C\]666;vte.shell.preexec!\Cloning into '220-programming-in-c-and-unix-lab03-bashayer-ku-26'...
+fatal: unable to access 'https://classroom05.org/KUCS220/220-programming-in-c-and-unix-lab03-bashayer-ku-26.git/': Could not resolve host: classroom05.org
+]666;vte.shell.postexec=128\]7;file://bashayer-VirtualBox/home/bashayer/cs220\]0;bashayer@bashayer-VirtualBox:~/cs220\]666;vte.shell.precmd!\[?2004h]0;bashayer@bashayer-VirtualBox: ~/cs220[01;32mbashayer@bashayer-VirtualBox[00m:[01;34m~/cs220[00m$ cd 220-programming-in-c -and=unix[K[K[K[K[K-unix-lab03-ku-26
+[?2004l]133;C\]666;vte.shell.preexec!\bash: cd: 220-programming-in-c-and-unix-lab03-ku-26: No such file or directory
+]666;vte.shell.postexec=1\]7;file://bashayer-VirtualBox/home/bashayer/cs220\]0;bashayer@bashayer-VirtualBox:~/cs220\]666;vte.shell.precmd!\[?2004h]0;bashayer@bashayer-VirtualBox: ~/cs220[01;32mbashayer@bashayer-VirtualBox[00m:[01;34m~/cs220[00m$ git clone https://class room50.org/KUCS220/220-programming-in-c-and-unix-lab03-bashay er-ku-26.git
+[?2004l]133;C\]666;vte.shell.preexec!\Cloning into '220-programming-in-c-and-unix-lab03-bashayer-ku-26'...
+fatal: repository 'https://classroom50.org/KUCS220/220-programming-in-c-and-unix-lab03-bashayer-ku-26.git/' not found
+]666;vte.shell.postexec=128\]7;file://bashayer-VirtualBox/home/bashayer/cs220\]0;bashayer@bashayer-VirtualBox:~/cs220\]666;vte.shell.precmd!\[?2004h]0;bashayer@bashayer-VirtualBox: ~/cs220[01;32mbashayer@bashayer-VirtualBox[00m:[01;34m~/cs220[00m$ git clone https://githu b.com/KUCS220/220-programming-in-c-and-unix-lab03-bashayer-ku -26.git
+[?2004l]133;C\]666;vte.shell.preexec!\Cloning into '220-programming-in-c-and-unix-lab03-bashayer-ku-26'...
+remote: Enumerating objects: 10, done.[K
+remote: Counting objects:  10% (1/10)[Kremote: Counting objects:  20% (2/10)[Kremote: Counting objects:  30% (3/10)[Kremote: Counting objects:  40% (4/10)[Kremote: Counting objects:  50% (5/10)[Kremote: Counting objects:  60% (6/10)[Kremote: Counting objects:  70% (7/10)[Kremote: Counting objects:  80% (8/10)[Kremote: Counting objects:  90% (9/10)[Kremote: Counting objects: 100% (10/10)[Kremote: Counting objects: 100% (10/10), done.[K
+remote: Compressing objects:  10% (1/10)[Kremote: Compressing objects:  20% (2/10)[Kremote: Compressing objects:  30% (3/10)[Kremote: Compressing objects:  40% (4/10)[Kremote: Compressing objects:  50% (5/10)[Kremote: Compressing objects:  60% (6/10)[Kremote: Compressing objects:  70% (7/10)[Kremote: Compressing objects:  80% (8/10)[Kremote: Compressing objects:  90% (9/10)[Kremote: Compressing objects: 100% (10/10)[Kremote: Compressing objects: 100% (10/10), done.[K
+remote: Total 10 (delta 2), reused 6 (delta 0), pack-reused 0 (from 0)[K
+Receiving objects:  10% (1/10)Receiving objects:  20% (2/10)Receiving objects:  30% (3/10)Receiving objects:  40% (4/10)Receiving objects:  50% (5/10)Receiving objects:  60% (6/10)Receiving objects:  70% (7/10)Receiving objects:  80% (8/10)Receiving objects:  90% (9/10)Receiving objects: 100% (10/10)Receiving objects: 100% (10/10), 5.10 KiB | 1.02 MiB/s, done.
+Resolving deltas:   0% (0/2)Resolving deltas:  50% (1/2)Resolving deltas: 100% (2/2)Resolving deltas: 100% (2/2), done.
+]666;vte.shell.postexec=0\]7;file://bashayer-VirtualBox/home/bashayer/cs220\]0;bashayer@bashayer-VirtualBox:~/cs220\]666;vte.shell.precmd!\[?2004h]0;bashayer@bashayer-VirtualBox: ~/cs220[01;32mbashayer@bashayer-VirtualBox[00m:[01;34m~/cs220[00m$ cd 220-programming-in-c -and-unix-lab03-bashayer-ku-26
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://bashayer-VirtualBox/home/bashayer/cs220/220-programming-in-c-and-unix-lab03-bashayer-ku-26\]0;bashayer@bashayer-VirtualBox:~/cs220/220-programming-in-c-and-unix-lab03-bashayer-ku-26\]666;vte.shell.precmd!\[?2004h]0;bashayer@bashayer-VirtualBox: ~/cs220/220-programming-in-c-and-unix-lab03-bashayer-ku-26[01;32mbashayer@bashayer-VirtualBox[00m:[01;34m~/cs220/220-programming-in-c-and-unix-lab03-bashayer-ku-26[00m$ cat debug1.c
+[?2004l]133;C\]666;vte.shell.preexec!\#include <stdio.h>
+
+int maxvalue(int arr[], int n)
+{
+	int i= 1;
+	int max=arr[0];
+	while (i < n)
+	{
+		if (arr[i] > max)
+			max=arr[i];
+
+	}
+	return max;
+}
+
+int main()
+{
+	int arr[] = {21, 10, 32, 3, 65, -100};
+	int size = 6;
+	int m;
+	m=maxvalue(arr, size);
+	return 0;
+}
+]666;vte.shell.postexec=0\]7;file://bashayer-VirtualBox/home/bashayer/cs220/220-programming-in-c-and-unix-lab03-bashayer-ku-26\]0;bashayer@bashayer-VirtualBox:~/cs220/220-programming-in-c-and-unix-lab03-bashayer-ku-26\]666;vte.shell.precmd!\[?2004h]0;bashayer@bashayer-VirtualBox: ~/cs220/220-programming-in-c-and-unix-lab03-bashayer-ku-26[01;32mbashayer@bashayer-VirtualBox[00m:[01;34m~/cs220/220-programming-in-c-and-unix-lab03-bashayer-ku-26[00m$ gcc -g debug1.c -o debug1
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://bashayer-VirtualBox/home/bashayer/cs220/220-programming-in-c-and-unix-lab03-bashayer-ku-26\]0;bashayer@bashayer-VirtualBox:~/cs220/220-programming-in-c-and-unix-lab03-bashayer-ku-26\]666;vte.shell.precmd!\[?2004h]0;bashayer@bashayer-VirtualBox: ~/cs220/220-programming-in-c-and-unix-lab03-ba

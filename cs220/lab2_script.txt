@@ -1,0 +1,5 @@
+Script started on 2026-10-07 11:24:04+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="85" LINES="27"]
+]666;vte.shell.postexec=0\]7;file://bashayer-VirtualBox/home/bashayer/cs220/cs220\]0;bashayer@bashayer-VirtualBox:~/cs220/cs220\]666;vte.shell.precmd!\[?2004h]0;bashayer@bashayer-VirtualBox: ~/cs220/cs220[01;32mbashayer@bashayer-VirtualBox[00m:[01;34m~/cs220/cs220[00m$ exit
+[?2004l]133;C\]666;vte.shell.preexec!\exit
+
+Script done on 2026-10-07 11:25:02+03:00 [COMMAND_EXIT_CODE="0"]
